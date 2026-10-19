@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth Test Oud versie</string>
+    <string name="action_settings">Settings</string>
+    <string name="StatusText">Bluetooth Test</string>
+    <string name="connectBtn">Connect</string>
+    <string name="disconnectBtn">Disconnect</string>
+    <string name="Logo">Logo bluetooth</string>
+
+</resources>
